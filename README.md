@@ -30,4 +30,4 @@ ganancias de un determinado día.
 
 ## Solución
 
-![] (./classDiagram.png)
+![](./classDiagram.png)
