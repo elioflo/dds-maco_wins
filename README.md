@@ -31,4 +31,4 @@ ganancias de un determinado día.
 ## Solución
 
 ![](./classDiagram.png)
-![](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1fK-MP0tTpqWrsX75LW_6MkudgERPXDBn)
+![](https://user-images.githubusercontent.com/38950204/240790237-cf1599b9-913f-430b-9489-658ef9016743.svg)
